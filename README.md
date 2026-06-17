@@ -15,7 +15,7 @@
 
 ## 🧭 About me
 
-I'm a Computer Science graduate doing an MSc in Management & Marketing at University College Cork, with a placement at **Red Hat** as a **Fedora Community Operations Intern**.
+I'm a Computer Science graduate doing an MSc in Management & Marketing at University College Cork, with a placement at **Red Hat** as a **Fedora Community Architect Intern**.
 
 My thing is the overlap between technical depth and community strategy — I can set up an SSH key infrastructure and write a 1,000-word interview profile in the same afternoon. Most people can do one or the other.
 
