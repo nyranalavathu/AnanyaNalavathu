@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ananya (Nyra) 👋</h1>
+<h1 align="center">Hi, I'm Ananya Nalavathu 👋</h1>
 
 <p align="center">
   <strong>Open Source Community & Developer Relations</strong><br/>
