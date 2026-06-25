@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ananyanalavathu/">LinkedIn</a> ·
   <a href="https://fedoramagazine.org/author/ananya/">Fedora Magazine</a> ·
+  <a href="https://ananya.fedorapeople.org">Portfolio</a> ·
   <a href="mailto:nyranalavathu@gmail.com">Email</a>
 </p>
 
@@ -48,14 +49,6 @@ My thing is the overlap between technical depth and community strategy — I can
 
 ## 🛠️ Tech stack
 
-```
-Languages     Python · Java · SQL · Bash
-Infra & DevOps  Linux (Fedora/RHEL) · Git · AWS (EC2, S3, CodeDeploy, CI/CD) · SSH
-Community tools  WordPress · Pagure · Inkscape · Discourse · Matrix · Fedorapeople
-Workflows     Agile · Scrum · SDLC · Git-based editorial pipelines
-```
-
----
 
 ## 🎤 Speaking
 
@@ -79,3 +72,4 @@ I'm actively looking for **Developer Relations**, **Community Manager**, and **T
 
 → [linkedin.com/in/ananyanalavathu](https://www.linkedin.com/in/ananyanalavathu/)
 → [fedoramagazine.org/author/ananya](https://fedoramagazine.org/author/ananya/)
+→ [ananya.fedorapeople.org](https://ananya.fedorapeople.org)
